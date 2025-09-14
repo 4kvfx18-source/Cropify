@@ -1,0 +1,5 @@
+{
+  "name": "Cropify",
+  "description": "An advanced image cropping tool that allows users to upload images and perform detailed rectangular or polygonal selections. Features include zoom, pan, undo, and the ability to download each crop as a PNG with its corresponding coordinate metadata as a JSON file.",
+  "requestFramePermissions": []
+}
